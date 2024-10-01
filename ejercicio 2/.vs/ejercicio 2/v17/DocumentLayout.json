@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\C2\\clase 8\\ejercicio 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA7C5BB-2900-4EDD-B91E-49A940E60CE6}|..\\ejercicio 6\\ejercicio 6.csproj|c:\\users\\usuario\\onedrive\\documentos\\c2\\clase 8\\ejercicio 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05C7B36-DED5-472D-B84F-4AC04E5BF69D}|..\\ejercicio 5\\ejercicio 5.csproj|c:\\users\\usuario\\onedrive\\documentos\\c2\\clase 8\\ejercicio 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D080DF-65F2-4651-A5F2-155F4674A0BD}|..\\ejercicio 4\\ejercicio 4.csproj|c:\\users\\usuario\\onedrive\\documentos\\c2\\clase 8\\ejercicio 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177E97D6-A9F7-452E-AD97-4FB25DE8712E}|..\\ejercicio 3\\ejercicio 3.csproj|c:\\users\\usuario\\onedrive\\documentos\\c2\\clase 8\\ejercicio 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE13530-4529-420D-A81E-BF6BF167BF02}|ejercicio 2.csproj|C:\\Users\\USUARIO\\OneDrive\\Documentos\\C2\\clase 8\\ejercicio 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE13530-4529-420D-A81E-BF6BF167BF02}|ejercicio 2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\C2\\clase 8\\ejercicio 6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ejercicio 6\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\C2\\clase 8\\ejercicio 6\\Program.cs",
+              "RelativeToolTip": "..\\ejercicio 6\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:42:52.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\C2\\clase 8\\ejercicio 5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ejercicio 5\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\C2\\clase 8\\ejercicio 5\\Program.cs",
+              "RelativeToolTip": "..\\ejercicio 5\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T01:26:27.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\C2\\clase 8\\ejercicio 4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ejercicio 4\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\C2\\clase 8\\ejercicio 4\\Program.cs",
+              "RelativeToolTip": "..\\ejercicio 4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T01:22:59.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\C2\\clase 8\\ejercicio 3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ejercicio 3\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\C2\\clase 8\\ejercicio 3\\Program.cs",
+              "RelativeToolTip": "..\\ejercicio 3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:12:35.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\C2\\clase 8\\ejercicio 2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documentos\\C2\\clase 8\\ejercicio 2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:00:26.171Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
